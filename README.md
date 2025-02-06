@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Jiahui, you can call me Jacqueline
-- 👀 I’m interested in traveling
-- 🌱 I’m currently learning Salesforce
-
+- 👋 Hi
 
 <!---
 JiahuiLi-Jacqueline/JiahuiLi-Jacqueline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
